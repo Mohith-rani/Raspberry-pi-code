@@ -12,8 +12,8 @@ website_url = 'https://vignan-dynamic-college-web-platform.netlify.app'
 
 GPIO.setwarnings(False)
 # Set the times to open and close the website (24-hour format)
-open_time = "10:39"
-close_time = "10:40"
+open_time = "08:00"
+close_time = "18:00"
 
 # Set GPIO pin for output
 gpio_pin = 18
